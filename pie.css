@@ -1,0 +1,40 @@
+/* height: 150px ; */
+/* border-radous: 100%; */
+
+/* box-shadow: 0px 0px 0px */
+
+
+
+    #rightup{
+        height: 150px;
+        width: 150px;
+        background-color: yellow;
+        position: absolute;
+        left: 150px;
+        top: 8px;
+        border-radius: 0 200px 0 0;
+    }
+    #rightdown{
+        height: 150px;
+        width: 150px;
+        background-color: green;
+        position: absolute;
+        left:150px;
+        border-radius: 0 0 200px 0;
+
+
+
+
+}
+#leftup{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border-radius: 200px 0 0 0;
+}
+#leftdown{
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    border-radius: 0 0 0 200px;
+}
